@@ -1,0 +1,36 @@
+.input-form {
+  position: absolute;
+  top: 50%;
+  margin: 0 auto;
+  left: 25%;
+  width: 50%;
+}
+
+.data-list {
+    display: grid;
+}
+
+.results-cards {
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 15px;
+  margin-top: 25px;
+  display: grid;
+}
+
+.favourites-list {
+    position: fixed;
+    z-index: 99;
+    width: 500px;
+    right: 5%;
+    padding-top: 1%;
+}
+
+.toggle-view{
+    padding-top: 1%;
+    display: grid;
+}
+
+#toggler {
+    padding-top: 1%;
+}
